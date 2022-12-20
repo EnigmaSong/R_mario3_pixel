@@ -10,6 +10,9 @@ it is much easier to create pixel art images in R.
 library(pixeltrix)
 ```
 
+Here, we draw pixel frames of [Mario from Super Mario
+Bros. 3](https://www.mariouniverse.com/wp-content/img/sprites/nes/smb3/mario-2.gif).
+
 ## Define colors
 
 Define color palettes.

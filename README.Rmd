@@ -11,12 +11,13 @@ knitr::opts_chunk$set(class.source = "foldable")
 
 Thanks to [`pixeltrix`](https://github.com/matt-dray/pixeltrix) package, it is much easier to create pixel art images in R.
 
-
 ```{r package}
 # install.packages("remotes")  # if not yet installed
 # remotes::install_github("matt-dray/pixeltrix")
 library(pixeltrix)
 ```
+
+Here, we draw pixel frames of [Mario from Super Mario Bros. 3](https://www.mariouniverse.com/wp-content/img/sprites/nes/smb3/mario-2.gif).
 
 ## Define colors
 
