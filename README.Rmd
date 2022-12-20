@@ -1,7 +1,5 @@
 ---
 title: "Mario_pixel"
-author: "Youngseok Song"
-date: "`r Sys.Date()`"
 output:
   github_document
 ---

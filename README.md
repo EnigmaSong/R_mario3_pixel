@@ -1,7 +1,5 @@
 Mario_pixel
 ================
-Youngseok Song
-2022-12-20
 
 Thanks to [`pixeltrix`](https://github.com/matt-dray/pixeltrix) package,
 it is much easier to create pixel art images in R.
